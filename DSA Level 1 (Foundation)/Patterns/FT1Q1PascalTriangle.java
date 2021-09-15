@@ -4,7 +4,7 @@
 
 // Pascal Triangle (Pattern 13)
 import java.util.*;
-public class Main{
+public class FT1Q1PascalTriangle{
     public static void main(String[] args){
         Scanner scn = new Scanner(System.in);
 
