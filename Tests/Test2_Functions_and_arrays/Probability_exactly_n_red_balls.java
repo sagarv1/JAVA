@@ -32,7 +32,7 @@ public class Main{
     int nv = 1;
     for(int i=0; i<r; i++) { // run r times
       nv = ov*(n-i)/(i+1);
-      ov = nv;
+      ov = nv; // अगली बारी के लिए
     }
 
     return nv;
