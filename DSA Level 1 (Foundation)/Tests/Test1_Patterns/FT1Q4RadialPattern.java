@@ -7,7 +7,7 @@ public static void main(String[] args) {
 
     int n = scn.nextInt();
     
-    int ll = n+1; // upper limit
+    int ll = n+1; // lower limit
     
     for(int i=0; i<2*n-1; i++) {
         // decreasing
